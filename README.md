@@ -14,9 +14,5 @@
 1. yarn install
 2. cd ios && pod install
 3. for running android (yarn android), for ios (yarn ios).
-4. Login Screen (email : Sendi@gmail.com, pass: 123456)
-
-# Screen Record
-https://ibb.co/Xy6V1HH
 
 
